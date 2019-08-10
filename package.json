@@ -1,0 +1,23 @@
+{
+  "name": "using-or-trying-jest",
+  "version": "1.0.0",
+  "description": "Learning to test my codes..",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alaincodes/using-or-trying-jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alaincodes/using-or-trying-jest/issues"
+  },
+  "homepage": "https://github.com/alaincodes/using-or-trying-jest#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
